@@ -1,6 +1,6 @@
 # 📦 Project Name
 
-> Demo about ...
+> Demo about Design Patterns
 
 ---
 
@@ -20,13 +20,13 @@
 
 ## 📝 About
 
-> This is an app to ...
+> Small programs based on design patterns
 
 ---
 
 ## ✨ Features
 
-- ✅ ...
+- ✅ Singleton
 
 ---
 
@@ -35,17 +35,17 @@
 ### Prerequisites
 
 - List software dependencies or system requirements here:
-  - ...
+  - C++ compiler
 
 ### Source
 
-- *.
+- *.cpp: main source
 
 ### Usage
 
-- Start app
-- ...
+- g++ Singleton/main.cpp -o out
+- ./out.exe
 
 ### Reference
 
-- 
+- https://refactoring.guru/
