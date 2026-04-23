@@ -27,6 +27,7 @@
 ## ✨ Features
 
 - ✅ Singleton
+- ✅ Factory
 
 ---
 
@@ -40,6 +41,7 @@
 ### Source
 
 - *.cpp: main source
+- *.log: result
 
 ### Usage
 
